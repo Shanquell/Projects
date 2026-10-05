@@ -340,6 +340,13 @@ PersonaForge demonstrates how large language models can be integrated into a mod
 
 The completed beta version successfully passed all **45 automated tests** while also revealing realistic challenges associated with multi-agent systems, including character drift, context management, routing ambiguity, and API cost.
 
+## Hugging Face Deployment
+
+The Project 1 Credibility-Scored Research Chatbot is deployed on Hugging Face Spaces.
+
+**Live Application:** https://huggingface.co/spaces/GQuellTS/personaforge
+
+
 ## Author
 
 **Shanquell Thompson-Sanders**
