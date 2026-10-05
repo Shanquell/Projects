@@ -4,6 +4,14 @@ PersonaForge is a Python-based multi-agent system that creates persistent AI per
 
 The system supports both an offline testing environment and live Claude integration through the Anthropic API. It also includes automated testing and a Gradio interface for deployment on Hugging Face Spaces.
 
+## Live Demo
+
+The PersonaForge web application is deployed on Hugging Face Spaces and can be accessed here:
+
+**[Launch PersonaForge on Hugging Face Spaces](https://huggingface.co/spaces/GQuellTS/personaforge)**
+
+The live application provides a Gradio-based interface for interacting with the PersonaForge orchestrator through a web browser.
+
 ## What the Project Does
 
 PersonaForge allows users to interact with the system using natural-language instructions instead of manually calling individual Python functions.
@@ -340,11 +348,6 @@ PersonaForge demonstrates how large language models can be integrated into a mod
 
 The completed beta version successfully passed all **45 automated tests** while also revealing realistic challenges associated with multi-agent systems, including character drift, context management, routing ambiguity, and API cost.
 
-## Hugging Face Deployment
-
-This project`s Credibility-Scored Research Chatbot is deployed on Hugging Face Spaces.
-
-**Live Application:** https://huggingface.co/spaces/GQuellTS/personaforge
 
 
 ## Author
